@@ -1,6 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Password Generator
+
+A simple and secure password generator built using React and JavaScript. This application allows users to generate random passwords based on selected criteria such as length, inclusion of numbers, symbols, uppercase, and lowercase letters.
+
+## Features
+
+- Generate passwords of variable length
+- Include/exclude numbers
+- Include/exclude symbols
+- Include/exclude uppercase letters
+- Include/exclude lowercase letters
+- Copy the generated password to the clipboard
+- Responsive design
+
 
 Currently, two official plugins are available:
 
